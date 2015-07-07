@@ -1,0 +1,12 @@
+It was more easier as in case of diff I only look at the changes
+rather than looking at all the contents of the file.
+This is particularly useful i n case of dense files.
+
+It makes bug tracking easier as we can constantly check when which
+changes were made.
+
+some times we need to have multiple files saved parallely.
+
+I can track down and control changes
+
+For all my project work :D

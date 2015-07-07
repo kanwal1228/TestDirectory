@@ -1,0 +1,4 @@
+.git folder gets created
+repository initializes
+staging area stores the temporary changed and commits them to the final repositry when we are sure
+whenever I have to experiment or do something different.
